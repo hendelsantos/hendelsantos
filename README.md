@@ -5,6 +5,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/hendelsantos?style=social)](https://github.com/hendelsantos)
 [![GitHub stars](https://img.shields.io/github/stars/hendelsantos?style=social)](https://github.com/hendelsantos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hendelsantos)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hendelcode.com.br/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hendelosantos@outlook.com)
 
 ### 🐍 Desenvolvedor Python | 🤖 Entusiasta de IA | 🚀 Backend Developer
 
@@ -161,7 +163,8 @@ class HendelSantos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hendelsantos)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hendelsantos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hendel@example.com)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hendelcode.com.br/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hendelosantos@outlook.com)
 
 **💬 Sempre aberto para:**
 - 🚀 Projetos inovadores em Python/Go
