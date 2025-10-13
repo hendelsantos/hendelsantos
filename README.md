@@ -10,7 +10,7 @@
 
 ### 🐍 Desenvolvedor Python | 🤖 Entusiasta de IA | 🚀 Backend Developer
 
-*"A integração entre Humano x IA é inevitável - eu uso IA para acelerar meu aprendizado e criar códigos mais rápidos e eficientes"*
+_"A integração entre Humano x IA é inevitável - eu uso IA para acelerar meu aprendizado e criar códigos mais rápidos e eficientes"_
 
 </div>
 
@@ -22,8 +22,10 @@ Sou um **desenvolvedor Python apaixonado** por criar soluções robustas e escal
 
 - 🐍 **Python** com **Django**, **Flask** e **FastAPI**
 - 🔥 **Golang** (aprendendo ativamente para backend)
-- 🤖 **Integração com IA** para otimização de código e produtividade
+- � **Rust** (estudando para blockchain e sistemas de alta performance)
+- �🤖 **Integração com IA** para otimização de código e produtividade
 - 🏗️ **APIs RESTful** e **sistemas de recomendação**
+- ⛓️ **Desenvolvimento Blockchain** com **Rust** e **Solidity**
 - 🔄 **Processamento de pagamentos** e **automação**
 
 ---
@@ -31,19 +33,27 @@ Sou um **desenvolvedor Python apaixonado** por criar soluções robustas e escal
 ## 🛠️ Tech Stack
 
 ### **Backend Development**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### **Blockchain & Smart Contracts**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### **Databases & Tools**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### **AI & Machine Learning**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
@@ -52,27 +62,44 @@ Sou um **desenvolvedor Python apaixonado** por criar soluções robustas e escal
 ## 🌟 Projetos em Destaque
 
 ### 🎯 [Sistema de Recomendação - Backend API](https://github.com/hendelsantos/Backend_API_Recomenda-o)
+
 **Desafio Conty** - Sistema inteligente de recomendação de criadores para campanhas
+
 - **Tech Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL
 - **Features:** Sistema de scoring determinístico, processamento de 100+ criadores, API REST completa
 - **Algoritmo:** Jaccard similarity, sobreposição demográfica, métricas de performance
 - ✅ **6 testes automatizados** | ✅ **Documentação Swagger** | ✅ **Deploy pronto**
 
 ### 💳 [Sistema PIX - Processamento de Pagamentos](https://github.com/hendelsantos/PIX)
+
 **Desafio Conty** - Sistema de pagamentos em lote via PIX com alta performance
+
 - **Tech Stack:** Golang, Gin Framework, PostgreSQL, Docker
 - **Features:** Processamento concorrente, idempotência garantida, graceful shutdown
 - **Performance:** Processamento paralelo com goroutines, logs estruturados
 - ✅ **Clean Architecture** | ✅ **Testes de integração** | ✅ **Monitoramento**
 
+### ⛓️ [Cartório Digital Blockchain](https://cartoriodigitalblockchainrust-production.up.railway.app/)
+
+**Projeto Blockchain** - Sistema de cartório digital descentralizado com autenticação de documentos
+
+- **Tech Stack:** Rust, Solidity, Ethereum, Smart Contracts
+- **Features:** Registro imutável de documentos, verificação criptográfica, interface web
+- **Blockchain:** Smart contracts para autenticidade, hash de documentos na blockchain
+- ✅ **Deploy em produção** | ✅ **Interface responsiva** | ✅ **Segurança criptográfica**
+
 ### 👁️ [Sistema de Visão YOLO](https://github.com/hendelsantos/SistemaVis-oYolo)
+
 Sistema de visão computacional para reconhecimento de pessoas e objetos
+
 - **Tech Stack:** Python, YOLO, OpenCV
 - **Features:** Detecção em tempo real, classificação de objetos
 - **Aplicação:** Vigilância inteligente, automação de processos
 
 ### 🎛️ [Sistema de Controle V1](https://github.com/hendelsantos/SistemaControleV1)
+
 Sistema de controle e automação com interface web
+
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Features:** Interface responsiva, controle em tempo real
 
@@ -95,6 +122,7 @@ Sistema de controle e automação com interface web
 > **"Uso IA como parceira de desenvolvimento para acelerar meu aprendizado e criar códigos mais rápidos e eficientes"**
 
 ### Como Integro IA ao Meu Workflow:
+
 - 🚀 **Acelerar aprendizado** de novas tecnologias (ex: Golang)
 - 🔍 **Code review** e otimização de performance
 - 📝 **Documentação** mais clara e completa
@@ -102,6 +130,7 @@ Sistema de controle e automação com interface web
 - 💡 **Problem solving** com diferentes abordagens
 
 ### Resultados da Integração Humano x IA:
+
 - ⚡ **+40% produtividade** no desenvolvimento
 - 🎯 **Código mais limpo** e bem documentado
 - 🚀 **Aprendizado acelerado** de Go em semanas
@@ -112,7 +141,9 @@ Sistema de controle e automação com interface web
 ## 🎯 Objetivos Atuais
 
 - 🔥 **Dominar Golang** para sistemas backend de alta performance
-- 🏗️ **Arquiteturas de microserviços** com Go e Python
+- 🦀 **Aprofundar em Rust** para blockchain e sistemas críticos
+- ⛓️ **Desenvolvimento Blockchain** com smart contracts e DeFi
+- 🏗️ **Arquiteturas de microserviços** com Go, Python e Rust
 - ☁️ **Cloud Computing** (AWS, Docker, Kubernetes)
 - 🤖 **IA Generativa** aplicada ao desenvolvimento
 - 📈 **Sistemas distribuídos** e processamento em tempo real
@@ -125,9 +156,9 @@ Sistema de controle e automação com interface web
 class HendelSantos:
     def __init__(self):
         self.name = "Hendel Santos"
-        self.role = "Backend Developer"
-        self.languages = ["Python", "Go", "JavaScript"]
-        self.current_focus = "Golang + AI Integration"
+        self.role = "Backend Developer & Blockchain Enthusiast"
+        self.languages = ["Python", "Go", "Rust", "Solidity", "JavaScript"]
+        self.current_focus = "Golang + Rust + Blockchain + AI Integration"
         self.philosophy = "Human + AI collaboration"
         
     def daily_routine(self):
@@ -135,21 +166,22 @@ class HendelSantos:
             "☕ Coffee + Code",
             "🐍 Python projects",
             "🔥 Learning Golang", 
-            "🤖 AI-assisted development",
+            "� Studying Rust for blockchain",
+            "⛓️ Smart contracts development",
+            "�🤖 AI-assisted development",
             "📚 Reading tech articles",
             "🚀 Building cool stuff"
         ]
         
     def future_goals(self):
         return {
-            "backend": "Microservices with Go",
+            "backend": "Microservices with Go & Rust",
+            "blockchain": "DeFi protocols & smart contracts",
             "ai": "LLM integration in apps",
             "cloud": "Scalable architectures",
             "community": "Open source contributions"
         }
-```
-
----
+```---
 
 ## 📈 Contribuições Recentes
 
@@ -167,6 +199,7 @@ class HendelSantos:
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hendelosantos@outlook.com)
 
 **💬 Sempre aberto para:**
+
 - 🚀 Projetos inovadores em Python/Go
 - 🤖 Discussões sobre IA e desenvolvimento
 - 🔄 Colaborações open source
@@ -178,7 +211,7 @@ class HendelSantos:
 
 <div align="center">
 
-### 🌟 *"O futuro é construído por quem abraça a mudança e usa as ferramentas certas para criar soluções extraordinárias"*
+### 🌟 _"O futuro é construído por quem abraça a mudança e usa as ferramentas certas para criar soluções extraordinárias"_
 
 **⚡ Transformando café em código desde sempre ☕ → 💻**
 
