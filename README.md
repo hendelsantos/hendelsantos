@@ -61,6 +61,21 @@ Sou um **desenvolvedor Python apaixonado** por criar soluções robustas e escal
 
 ## 🌟 Projetos em Destaque
 
+### 🚀 [HashDocs - Portfolio Blockchain](https://www.hashdocs.com.br/)
+
+**HashDocs** é o principal projeto do meu portfólio, focado em trazer inovação e segurança para autenticação e registro de documentos digitais usando blockchain.
+
+- **Objetivo:** Prover uma plataforma descentralizada para registro, autenticação e consulta de documentos, garantindo integridade, transparência e imutabilidade através da blockchain.
+- **Tech Stack:** Solidity (smart contracts), Rust (backend seguro e performático), Frontend moderno com a tríade React, TypeScript e TailwindCSS.
+- **Destaques:**
+  - Registro imutável de documentos na blockchain Ethereum
+  - Backend em Rust para alta performance e segurança
+  - Interface web responsiva, intuitiva e rápida
+  - Integração total entre frontend, smart contracts e backend
+  - Foco em usabilidade, escalabilidade e segurança
+- ✅ **Deploy em produção:** [hashdocs.com.br](https://www.hashdocs.com.br/)
+- ✅ **Open source e pronto para auditoria**
+
 ### 🎯 [Sistema de Recomendação - Backend API](https://github.com/hendelsantos/Backend_API_Recomenda-o)
 
 **Desafio Conty** - Sistema inteligente de recomendação de criadores para campanhas
