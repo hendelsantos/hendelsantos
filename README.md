@@ -2,232 +2,519 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/hendelsantos?style=social)](https://github.com/hendelsantos)
-[![GitHub stars](https://img.shields.io/github/stars/hendelsantos?style=social)](https://github.com/hendelsantos)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hendelsantos)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hendelcode.com.br/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hendelosantos@outlook.com)
+### Software Requirements Engineer | AI-Augmented Software Developer | Full Stack & Backend
 
-### 🐍 Desenvolvedor Python | 🤖 Entusiasta de IA | 🚀 Backend Developer
+**Transforming business problems into software solutions with Software Engineering, AI and modern development tools.**
 
-_"A integração entre Humano x IA é inevitável - eu uso IA para acelerar meu aprendizado e criar códigos mais rápidos e eficientes"_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/hendelsantos)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://hendelcode.com.br/)
+[![MHSoftware](https://img.shields.io/badge/MHSoftware-111827?style=for-the-badge\&logo=code\&logoColor=white)](https://www.mhsoftware.com.br/)
+[![HashDocs](https://img.shields.io/badge/HashDocs-Blockchain-7C3AED?style=for-the-badge\&logo=ethereum\&logoColor=white)](https://www.hashdocs.com.br/)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou um **desenvolvedor Python apaixonado** por criar soluções robustas e escaláveis. Atualmente focado em **desenvolvimento backend** com expertise em:
+I'm **Hendel Santos**, a Software Requirements Engineer and software developer focused on transforming real business problems into practical software solutions.
 
-- 🐍 **Python** com **Django**, **Flask** e **FastAPI**
-- 🔥 **Golang** (aprendendo ativamente para backend)
-- � **Rust** (estudando para blockchain e sistemas de alta performance)
-- �🤖 **Integração com IA** para otimização de código e produtividade
-- 🏗️ **APIs RESTful** e **sistemas de recomendação**
-- ⛓️ **Desenvolvimento Blockchain** com **Rust** e **Solidity**
-- 🔄 **Processamento de pagamentos** e **automação**
+My work goes beyond choosing a programming language.
 
----
+I focus first on:
 
-## 🛠️ Tech Stack
+* understanding the business problem;
+* discovering and documenting requirements;
+* modeling processes and workflows;
+* identifying constraints and opportunities;
+* designing the appropriate software architecture;
+* selecting the right technologies for the problem;
+* developing, testing and delivering the solution.
 
-### **Backend Development**
+> **The programming language is a tool. The real goal is solving the right problem.**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+Depending on the project, I work with **Python, C, C++, TypeScript, Rust, SQL and other technologies**.
 
-### **Blockchain & Smart Contracts**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### **Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **AI & Machine Learning**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+I also use **AI-assisted software engineering** extensively throughout my development workflow, combining software engineering knowledge with modern AI coding models and agents.
 
 ---
 
-## 🌟 Projetos em Destaque
+# 🧠 My Engineering Approach
 
-### 🚀 [HashDocs - Portfolio Blockchain](https://www.hashdocs.com.br/)
+```text
+Business Problem
+      ↓
+Process Understanding
+      ↓
+Requirements Engineering
+      ↓
+System Design
+      ↓
+Architecture
+      ↓
+Technology Selection
+      ↓
+AI-Assisted Development
+      ↓
+Testing & Validation
+      ↓
+Deployment
+      ↓
+Continuous Improvement
+```
 
-**HashDocs** é o principal projeto do meu portfólio, focado em trazer inovação e segurança para autenticação e registro de documentos digitais usando blockchain.
+I believe good software starts long before the first line of code.
 
-- **Objetivo:** Prover uma plataforma descentralizada para registro, autenticação e consulta de documentos, garantindo integridade, transparência e imutabilidade através da blockchain.
-- **Tech Stack:** Solidity (smart contracts), Rust (backend seguro e performático), Frontend moderno com a tríade React, TypeScript e TailwindCSS.
-- **Destaques:**
-  - Registro imutável de documentos na blockchain Ethereum
-  - Backend em Rust para alta performance e segurança
-  - Interface web responsiva, intuitiva e rápida
-  - Integração total entre frontend, smart contracts e backend
-  - Foco em usabilidade, escalabilidade e segurança
-- ✅ **Deploy em produção:** [hashdocs.com.br](https://www.hashdocs.com.br/)
-- ✅ **Open source e pronto para auditoria**
-
-### 🎯 [Sistema de Recomendação - Backend API](https://github.com/hendelsantos/Backend_API_Recomenda-o)
-
-**Desafio Conty** - Sistema inteligente de recomendação de criadores para campanhas
-
-- **Tech Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL
-- **Features:** Sistema de scoring determinístico, processamento de 100+ criadores, API REST completa
-- **Algoritmo:** Jaccard similarity, sobreposição demográfica, métricas de performance
-- ✅ **6 testes automatizados** | ✅ **Documentação Swagger** | ✅ **Deploy pronto**
-
-### 💳 [Sistema PIX - Processamento de Pagamentos](https://github.com/hendelsantos/PIX)
-
-**Desafio Conty** - Sistema de pagamentos em lote via PIX com alta performance
-
-- **Tech Stack:** Golang, Gin Framework, PostgreSQL, Docker
-- **Features:** Processamento concorrente, idempotência garantida, graceful shutdown
-- **Performance:** Processamento paralelo com goroutines, logs estruturados
-- ✅ **Clean Architecture** | ✅ **Testes de integração** | ✅ **Monitoramento**
-
-### ⛓️ [Cartório Digital Blockchain](https://cartoriodigitalblockchainrust-production.up.railway.app/)
-
-**Projeto Blockchain** - Sistema de cartório digital descentralizado com autenticação de documentos
-
-- **Tech Stack:** Rust, Solidity, Ethereum, Smart Contracts
-- **Features:** Registro imutável de documentos, verificação criptográfica, interface web
-- **Blockchain:** Smart contracts para autenticidade, hash de documentos na blockchain
-- ✅ **Deploy em produção** | ✅ **Interface responsiva** | ✅ **Segurança criptográfica**
-
-### 👁️ [Sistema de Visão YOLO](https://github.com/hendelsantos/SistemaVis-oYolo)
-
-Sistema de visão computacional para reconhecimento de pessoas e objetos
-
-- **Tech Stack:** Python, YOLO, OpenCV
-- **Features:** Detecção em tempo real, classificação de objetos
-- **Aplicação:** Vigilância inteligente, automação de processos
-
-### 🎛️ [Sistema de Controle V1](https://github.com/hendelsantos/SistemaControleV1)
-
-Sistema de controle e automação com interface web
-
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Interface responsiva, controle em tempo real
+Understanding **people, processes, business rules and requirements** is what allows technology to generate real value.
 
 ---
 
-## 📊 GitHub Analytics
+# 🤖 AI-Augmented Software Development
+
+Artificial Intelligence is a core part of my development workflow.
+
+I use AI as an engineering partner for:
+
+* requirements analysis;
+* architecture exploration;
+* code generation;
+* refactoring;
+* debugging;
+* automated tests;
+* documentation;
+* API design;
+* data analysis;
+* research;
+* rapid prototyping;
+* code review;
+* legacy code understanding;
+* solution comparison.
+
+### AI Coding Tools & Agents
+
+I work with tools and coding agents such as:
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge\&logo=anthropic\&logoColor=white)
+
+* OpenAI Codex
+* Claude Code
+* OpenCode
+* GitHub Copilot
+* LLM-based development workflows
+* AI agents
+* Local and cloud AI models
+
+My goal is not simply to generate code with AI.
+
+My goal is to combine:
+
+**Human domain knowledge + Requirements Engineering + Software Engineering + Artificial Intelligence**
+
+to build better software faster.
+
+---
+
+# 🧩 Software Requirements Engineering
+
+A major part of my professional development is focused on **Software Requirements Engineering**.
+
+I am interested in the complete lifecycle between a business need and a working software product.
+
+### Areas of interest
+
+* Requirements elicitation
+* Functional requirements
+* Non-functional requirements
+* Business rules
+* Use cases
+* User stories
+* Acceptance criteria
+* Process modeling
+* BPMN
+* UML
+* Software Requirements Specification
+* System analysis
+* Stakeholder communication
+* Software architecture
+* Solution design
+
+This background helps me bridge the gap between:
+
+```text
+Business ↔ Engineering ↔ Software ↔ Artificial Intelligence
+```
+
+---
+
+# 🛠️ Technology Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
+## Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+Experience and interests include:
+
+* REST APIs
+* Backend systems
+* Business systems
+* SaaS platforms
+* Automation systems
+* Authentication
+* Data processing
+* Integrations
+* Microservices
+* Offline-first applications
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+---
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+---
+
+## DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+# 🏢 Founder — MHSoftware
 
 <div align="center">
 
-![Hendel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hendelsantos&show_icons=true&theme=radical)
+### [MHSoftware](https://www.mhsoftware.com.br/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendelsantos&layout=compact&theme=radical)
+**Software solutions focused on solving real business problems.**
 
 </div>
 
----
+I am the founder of **MHSoftware**, a software company focused on developing practical digital solutions for companies and professionals.
 
-## 🤖 Filosofia de Desenvolvimento
+The company's approach follows the same principle I use as an engineer:
 
-> **"Uso IA como parceira de desenvolvimento para acelerar meu aprendizado e criar códigos mais rápidos e eficientes"**
+> Understand the operation first. Build the technology second.
 
-### Como Integro IA ao Meu Workflow:
+Areas of development include:
 
-- 🚀 **Acelerar aprendizado** de novas tecnologias (ex: Golang)
-- 🔍 **Code review** e otimização de performance
-- 📝 **Documentação** mais clara e completa
-- 🧪 **Testes automatizados** mais robustos
-- 💡 **Problem solving** com diferentes abordagens
+* SaaS products;
+* business management systems;
+* internal corporate tools;
+* workflow automation;
+* data-driven applications;
+* AI-powered applications;
+* custom software;
+* process digitalization.
 
-### Resultados da Integração Humano x IA:
-
-- ⚡ **+40% produtividade** no desenvolvimento
-- 🎯 **Código mais limpo** e bem documentado
-- 🚀 **Aprendizado acelerado** de Go em semanas
-- 🔧 **Debugging mais eficiente**
+🌐 **Website:** https://www.mhsoftware.com.br/
 
 ---
 
-## 🎯 Objetivos Atuais
+# 🔐 Founder — HashDocs
 
-- 🔥 **Dominar Golang** para sistemas backend de alta performance
-- 🦀 **Aprofundar em Rust** para blockchain e sistemas críticos
-- ⛓️ **Desenvolvimento Blockchain** com smart contracts e DeFi
-- 🏗️ **Arquiteturas de microserviços** com Go, Python e Rust
-- ☁️ **Cloud Computing** (AWS, Docker, Kubernetes)
-- 🤖 **IA Generativa** aplicada ao desenvolvimento
-- 📈 **Sistemas distribuídos** e processamento em tempo real
+<div align="center">
+
+### [HashDocs](https://www.hashdocs.com.br/)
+
+**Document integrity, verification and digital authenticity.**
+
+</div>
+
+I am also the creator and founder of **HashDocs**, a project focused on digital document integrity and verification.
+
+HashDocs explores technologies related to:
+
+* document hashing;
+* cryptographic verification;
+* digital integrity;
+* authenticity;
+* blockchain;
+* immutable records;
+* secure document validation.
+
+🌐 **Project:** https://www.hashdocs.com.br/
 
 ---
 
-## 🌱 Aprendizado Contínuo
+# 🌟 Featured Projects
+
+## 🔐 HashDocs
+
+Platform focused on digital document verification, integrity and authenticity.
+
+**Technologies and concepts:**
+
+* Cryptographic hashing
+* Blockchain
+* Solidity
+* Rust
+* Web applications
+* Document verification
+
+🔗 https://www.hashdocs.com.br/
+
+---
+
+## 🎯 Recommendation System API
+
+Backend system developed for intelligent creator recommendation and campaign matching.
+
+**Stack**
+
+`Python • FastAPI • SQLAlchemy • PostgreSQL`
+
+Features include:
+
+* deterministic scoring;
+* demographic matching;
+* Jaccard similarity;
+* REST API;
+* automated tests;
+* Swagger documentation.
+
+[View Repository](https://github.com/hendelsantos/Backend_API_Recomenda-o)
+
+---
+
+## 💳 PIX Payment Processing System
+
+Backend designed for batch PIX payment processing.
+
+**Stack**
+
+`Go • Gin • PostgreSQL • Docker`
+
+Concepts implemented:
+
+* concurrency;
+* goroutines;
+* idempotency;
+* structured logging;
+* graceful shutdown;
+* integration tests;
+* Clean Architecture.
+
+[View Repository](https://github.com/hendelsantos/PIX)
+
+---
+
+## ⛓️ Digital Blockchain Registry
+
+Digital document registry using blockchain technologies.
+
+**Stack**
+
+`Rust • Solidity • Ethereum`
+
+Features:
+
+* document hashing;
+* blockchain registration;
+* cryptographic verification;
+* immutable records;
+* web interface.
+
+---
+
+## 👁️ Computer Vision System
+
+Computer vision project for real-time object and person detection.
+
+**Stack**
+
+`Python • YOLO • OpenCV`
+
+Applications include:
+
+* automation;
+* monitoring;
+* industrial vision;
+* object detection.
+
+[View Repository](https://github.com/hendelsantos/SistemaVis-oYolo)
+
+---
+
+# 🏭 Technology + Business + Industry
+
+One of my strongest interests is applying software engineering to **real operational environments**.
+
+I enjoy working on problems involving:
+
+* industrial processes;
+* automation;
+* production data;
+* operational systems;
+* inventory;
+* process optimization;
+* dashboards;
+* RPA;
+* artificial intelligence;
+* predictive analytics;
+* internal corporate applications.
+
+This experience reinforces something I strongly believe:
+
+> **The best software engineers don't just understand code. They understand the system, the users and the business behind the code.**
+
+---
+
+# 🎯 What I Build
+
+I enjoy creating:
+
+```text
+APIs
+Backend Systems
+Business Applications
+SaaS Platforms
+Desktop Applications
+Automation Tools
+RPA
+AI Applications
+Internal Corporate Tools
+Industrial Applications
+Data Applications
+Computer Vision Systems
+Offline-first Systems
+Blockchain Solutions
+```
+
+The technology is selected according to the problem.
+
+```text
+Python      → APIs, automation, AI, data and business systems
+TypeScript  → Modern web applications and frontend
+C / C++     → Performance, desktop and system-level applications
+Rust        → Secure and high-performance systems
+SQL         → Data modeling and business information
+AI Models   → Development acceleration and intelligent applications
+```
+
+---
+
+# 🧠 Engineering Philosophy
 
 ```python
 class HendelSantos:
-    def __init__(self):
-        self.name = "Hendel Santos"
-        self.role = "Backend Developer & Blockchain Enthusiast"
-        self.languages = ["Python", "Go", "Rust", "Solidity", "JavaScript"]
-        self.current_focus = "Golang + Rust + Blockchain + AI Integration"
-        self.philosophy = "Human + AI collaboration"
-        
-    def daily_routine(self):
-        return [
-            "☕ Coffee + Code",
-            "🐍 Python projects",
-            "🔥 Learning Golang", 
-            "� Studying Rust for blockchain",
-            "⛓️ Smart contracts development",
-            "�🤖 AI-assisted development",
-            "📚 Reading tech articles",
-            "🚀 Building cool stuff"
-        ]
-        
-    def future_goals(self):
-        return {
-            "backend": "Microservices with Go & Rust",
-            "blockchain": "DeFi protocols & smart contracts",
-            "ai": "LLM integration in apps",
-            "cloud": "Scalable architectures",
-            "community": "Open source contributions"
-        }
-```---
 
-## 📈 Contribuições Recentes
+    def solve(self, business_problem):
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hendelsantos&theme=react-dark)
+        requirements = understand_business(business_problem)
+
+        process = analyze_process(requirements)
+
+        architecture = design_solution(
+            requirements=requirements,
+            process=process
+        )
+
+        technology = choose_best_tools(
+            architecture=architecture,
+            not_based_on_hype=True
+        )
+
+        solution = build_with(
+            engineering=True,
+            artificial_intelligence=True,
+            technology=technology
+        )
+
+        return deliver_value(solution)
+```
 
 ---
 
-## 🤝 Vamos Conectar?
+# 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hendelsantos)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hendelsantos)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hendelcode.com.br/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hendelosantos@outlook.com)
+![Hendel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hendelsantos\&show_icons=true\&theme=github_dark)
 
-**💬 Sempre aberto para:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendelsantos\&layout=compact\&theme=github_dark)
 
-- 🚀 Projetos inovadores em Python/Go
-- 🤖 Discussões sobre IA e desenvolvimento
-- 🔄 Colaborações open source
-- 💼 Oportunidades de backend
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hendelsantos\&theme=github-dark)
 
 </div>
 
 ---
 
+# 📚 Current Learning
+
+Currently expanding my knowledge in:
+
+* Software Requirements Engineering
+* Software Architecture
+* Artificial Intelligence
+* AI Agents
+* AI-assisted Software Engineering
+* Systems Design
+* C and C++
+* Python
+* Rust
+* TypeScript
+* Data Analysis
+* Automation
+* Industrial AI
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in connecting with people working on:
+
+* Software Engineering
+* Requirements Engineering
+* Backend Development
+* AI Engineering
+* AI-Augmented Development
+* Industrial Software
+* Automation
+* SaaS
+* RPA
+* Data Applications
+* Open Source
+
 <div align="center">
 
-### 🌟 _"O futuro é construído por quem abraça a mudança e usa as ferramentas certas para criar soluções extraordinárias"_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hendel_Santos-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/hendelsantos)
 
-**⚡ Transformando café em código desde sempre ☕ → 💻**
+[![GitHub](https://img.shields.io/badge/GitHub-hendelsantos-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hendelsantos)
 
-</div># hendelsantos
+[![MHSoftware](https://img.shields.io/badge/MHSoftware-Visit_Website-111827?style=for-the-badge)](https://www.mhsoftware.com.br/)
+
+[![HashDocs](https://img.shields.io/badge/HashDocs-Visit_Project-7C3AED?style=for-the-badge)](https://www.hashdocs.com.br/)
+
+---
+
+### 💡 Business understanding first. Technology second. AI as an accelerator.
+
+**Building software that solves real problems.**
+
+</div>
