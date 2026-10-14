@@ -66,7 +66,7 @@ flowchart TD
     classDef ai fill:#4338CA,color:#ffffff,stroke:#3730A3;
     class A,G,H core;
     class I ai;
-```
+
 
 **I don't believe great software is defined by the number of frameworks used. It is defined by the problems it solves and the quality of its engineering decisions.**
 
@@ -420,4 +420,4 @@ I'm interested in opportunities and collaborations involving:
 **Build software. Understand data. Solve problems. Create value.**
 
 </div>
-```
+
