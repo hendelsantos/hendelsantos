@@ -1,15 +1,13 @@
-markdown
+
 <div align="center">
 
-# Hey there! I'm Hendel Santos 👋
+# 👋 Hi, I'm Hendel Santos!
 
 ### Software Engineer | Backend & Full Stack | Data Analytics
 
 **Turning business challenges into software, automation, and actionable insights.**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=27C3F3&center=true&vCenter=true&width=750&lines=Software+Engineering+%2B+Business+Thinking;Backend+Development+%7C+Python+%7C+Go;Data+Analytics+%7C+Python+%7C+R+%7C+Google+Colab;AI-Augmented+Software+Development;From+Requirements+to+Production)](https://git.io/typing-svg)
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hendelsantos)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hendelcode.com.br/)
@@ -32,10 +30,10 @@ I work across different technologies because I believe the most important engine
 
 > **Understand the problem. Design the solution. Choose the right technology. Deliver measurable value.**
 
-My core focus areas:
+### 🎯 What I Do
 
 - ⚙️ **Backend Engineering:** REST APIs, business logic, database design, integrations, and reliable services.
-- 🌐 **Full Stack Development:** Connecting backend systems with useful, modern web interfaces.
+- 🌐 **Full Stack Development:** Connecting backend systems with modern and useful web interfaces.
 - 📊 **Data Analytics:** Transforming operational data into dashboards, reports, insights, and analytical models.
 - 🤖 **AI-Augmented Engineering:** Using AI coding agents to accelerate software delivery while maintaining engineering discipline.
 - 🧩 **Requirements & Architecture:** Translating business needs into structured requirements, architecture, and maintainable software.
@@ -47,16 +45,16 @@ My core focus areas:
 
 ```mermaid
 flowchart TD
-    A["🎯 Business Problem"] --> B["🔎 Understand Requirements"]
-    B --> C["🧩 Model the Domain"]
-    C --> D["🏗️ Design Architecture"]
-    D --> E["💻 Build the Solution"]
-    E --> F["🧪 Test & Validate"]
-    F --> G["🚀 Deploy & Monitor"]
-    G --> H["📊 Measure & Improve"]
+    A["Business Problem"] --> B["Understand Requirements"]
+    B --> C["Model the Domain"]
+    C --> D["Design Architecture"]
+    D --> E["Build the Solution"]
+    E --> F["Test and Validate"]
+    F --> G["Deploy and Monitor"]
+    G --> H["Measure and Improve"]
     H -.-> B
 
-    I["🤖 AI-Assisted Workflow"] -.-> B
+    I["AI-Assisted Workflow"] -.-> B
     I -.-> D
     I -.-> E
     I -.-> F
@@ -66,7 +64,7 @@ flowchart TD
     classDef ai fill:#4338CA,color:#ffffff,stroke:#3730A3;
     class A,G,H core;
     class I ai;
-
+```
 
 **I don't believe great software is defined by the number of frameworks used. It is defined by the problems it solves and the quality of its engineering decisions.**
 
@@ -175,7 +173,9 @@ A recommendation API exploring creator discovery and campaign matching through d
 
 I enjoy working with data to discover patterns, investigate problems, and support better operational decisions.
 
-My experience in industrial processes gives me an important perspective: **data only becomes valuable when it helps people understand what is happening and what to do next.**
+My experience in industrial processes gives me an important perspective:
+
+> **Data only becomes valuable when it helps people understand what is happening and what to do next.**
 
 I use **Python and R in Google Colab and Jupyter notebooks** to explore datasets, automate analysis, develop statistical methods, and create visual reports.
 
@@ -195,12 +195,12 @@ I use **Python and R in Google Colab and Jupyter notebooks** to explore datasets
 
 ```mermaid
 flowchart LR
-    A["📁 Data"] --> B["🧹 Prepare"]
-    B --> C["🔍 Explore"]
-    C --> D["📈 Analyze"]
-    D --> E["🤖 Model"]
-    E --> F["📊 Report"]
-    F --> G["🎯 Decisions"]
+    A["Data"] --> B["Prepare"]
+    B --> C["Explore"]
+    C --> D["Analyze"]
+    D --> E["Model"]
+    E --> F["Report"]
+    F --> G["Decisions"]
 ```
 
 ### 🏭 Industrial Analytics Experiments
@@ -232,30 +232,30 @@ I work with coding agents and language models to accelerate exploration, develop
 
 ```text
        HUMAN-LED ENGINEERING
-                │
+                |
      Understand the problem
-                │
+                |
        Define requirements
-                │
+                |
       Make design decisions
-                │
-       ┌────────┴────────┐
-       │   AI AGENTS     │
-       │                 │
-       │ Explore options │
-       │ Generate code   │
-       │ Suggest tests   │
-       │ Review changes  │
-       │ Document        │
-       └────────┬────────┘
-                │
+                |
+       +------------------+
+       |    AI AGENTS     |
+       |                  |
+       | Explore options  |
+       | Generate code    |
+       | Suggest tests    |
+       | Review changes   |
+       | Document         |
+       +------------------+
+                |
        ENGINEERING REVIEW
-                │
+                |
        Validate behavior
-                │
+                |
        Test and improve
-                │
-           DELIVERY
+                |
+             DELIVERY
 ```
 
 ### 🧰 AI Tools in My Workflow
@@ -413,11 +413,8 @@ I'm interested in opportunities and collaborations involving:
 [![GitHub](https://img.shields.io/badge/Explore_My_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hendelsantos)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-Web-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hendelcode.com.br/)
 
-<br>
-
 ### Business understanding first. Engineering decisions matter. AI as an accelerator.
 
 **Build software. Understand data. Solve problems. Create value.**
 
 </div>
-
